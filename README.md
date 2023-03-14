@@ -2,7 +2,7 @@
 
 ![Bagde linguaguem](https://img.shields.io/badge/Linguagem-Java-red)
 ![Badge IDE](https://img.shields.io/badge/IDE-IntelliJ-blue )
-![Bagde status](https://img.shields.io/badge/Status-Cursando-brightgreen)
+![Bagde status](https://img.shields.io/badge/Status-Cursando-brightgreen)](https://img.shields.io/badge/Status-Conclu%C3%ADdo-brightgreen)
 
 Repositório contendo exercícios realizados em aula.
 Realizando o curso no Senai Anchieta (Vila Mariana, SP).
